@@ -6,4 +6,9 @@ int main(void) {
         printf("meow!\n");
         i--;
     }
+    int j = 0;
+    while (j < 3){
+        printf("Meow!\n");
+        j++;
+    }
 }
